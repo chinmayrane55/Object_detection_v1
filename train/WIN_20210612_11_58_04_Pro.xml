@@ -1,0 +1,26 @@
+<annotation>
+	<folder>yes</folder>
+	<filename>WIN_20210612_11_58_04_Pro.jpg</filename>
+	<path>A:\RealTimeObjectDetection\Tensorflow\workspace\images\collectedimages\yes\WIN_20210612_11_58_04_Pro.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Yes</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>378</xmin>
+			<ymin>424</ymin>
+			<xmax>592</xmax>
+			<ymax>568</ymax>
+		</bndbox>
+	</object>
+</annotation>
